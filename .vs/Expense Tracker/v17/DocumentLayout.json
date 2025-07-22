@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ihanl\\OneDrive\\Desktop\\Parttime-work\\Expense Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC62DFB-D126-44D0-8987-011405F9B00D}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\ihanl\\onedrive\\desktop\\parttime-work\\expense tracker\\expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC62DFB-D126-44D0-8987-011405F9B00D}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC62DFB-D126-44D0-8987-011405F9B00D}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\ihanl\\onedrive\\desktop\\parttime-work\\expense tracker\\expense tracker\\expense tracker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4BC62DFB-D126-44D0-8987-011405F9B00D}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\expense tracker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC62DFB-D126-44D0-8987-011405F9B00D}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\ihanl\\onedrive\\desktop\\parttime-work\\expense tracker\\expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC62DFB-D126-44D0-8987-011405F9B00D}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC62DFB-D126-44D0-8987-011405F9B00D}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\ihanl\\onedrive\\desktop\\parttime-work\\expense tracker\\expense tracker\\expense tracker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4BC62DFB-D126-44D0-8987-011405F9B00D}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\expense tracker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC62DFB-D126-44D0-8987-011405F9B00D}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\ihanl\\onedrive\\desktop\\parttime-work\\expense tracker\\expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BC62DFB-D126-44D0-8987-011405F9B00D}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ihanl\\OneDrive\\Desktop\\Parttime-work\\Expense Tracker\\Expense Tracker\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ihanl\\OneDrive\\Desktop\\Parttime-work\\Expense Tracker\\Expense Tracker\\Models\\Category.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:55:41.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ihanl\\OneDrive\\Desktop\\Parttime-work\\Expense Tracker\\Expense Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Program.cs",
+              "ToolTip": "C:\\Users\\ihanl\\OneDrive\\Desktop\\Parttime-work\\Expense Tracker\\Expense Tracker\\Program.cs",
+              "RelativeToolTip": "Expense Tracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:53:36.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Expense Tracker.http",
+              "DocumentMoniker": "C:\\Users\\ihanl\\OneDrive\\Desktop\\Parttime-work\\Expense Tracker\\Expense Tracker\\Expense Tracker.http",
+              "RelativeDocumentMoniker": "Expense Tracker\\Expense Tracker.http",
+              "ToolTip": "C:\\Users\\ihanl\\OneDrive\\Desktop\\Parttime-work\\Expense Tracker\\Expense Tracker\\Expense Tracker.http",
+              "RelativeToolTip": "Expense Tracker\\Expense Tracker.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-22T08:53:23.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ihanl\\OneDrive\\Desktop\\Parttime-work\\Expense Tracker\\Expense Tracker\\appsettings.json",
+              "RelativeDocumentMoniker": "Expense Tracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\ihanl\\OneDrive\\Desktop\\Parttime-work\\Expense Tracker\\Expense Tracker\\appsettings.json",
+              "RelativeToolTip": "Expense Tracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T08:53:16.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Expense Tracker",
+              "DocumentMoniker": "C:\\Users\\ihanl\\OneDrive\\Desktop\\Parttime-work\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj",
+              "RelativeDocumentMoniker": "Expense Tracker\\Expense Tracker.csproj",
+              "ToolTip": "C:\\Users\\ihanl\\OneDrive\\Desktop\\Parttime-work\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj",
+              "RelativeToolTip": "Expense Tracker\\Expense Tracker.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T08:37:55.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
